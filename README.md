@@ -1,7 +1,8 @@
 ### Hi there 👋 My name is Ogtay Huseynov, Lazy but Productive Software Engineer.
 🔭 I’m currently working as Freelancer, <br/>
 🌱 I’m currently learning Android, Svelte, TailwindCss, NuxtJS <br/>
-[![WebSite](https://ogtayhuseynov0.github.io/)]
+[WebSite](https://ogtayhuseynov0.github.io/)<br/>
+<hr/>
 [![My Github stats](https://github-readme-stats-1-one.vercel.app/api?username=ogtayhuseynov0&count_private=true&show_icons=true)](https://github.com/ogtayhuseynov0/)
 [![Top Langs](https://github-readme-stats-1-one.vercel.app/api/top-langs/?username=ogtayhuseynov0&layout=compact)](https://github.com/ogtayhuseynov0)
 
