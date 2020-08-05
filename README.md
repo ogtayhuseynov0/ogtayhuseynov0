@@ -2,7 +2,8 @@
 🔭 I’m currently working as Freelancer, <br/>
 🌱 I’m currently learning Android, Svelte, TailwindCss, NuxtJS
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=ogtayhuseynov0&count_private=true)](https://github.com/ogtayhuseynov0/)
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=ogtayhuseynov0&count_private=true&show_icons=true)](https://github.com/ogtayhuseynov0/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogtayhuseynov0)](https://github.com/ogtayhuseynov0)
 
 <!--
 **ogtayhuseynov0/ogtayhuseynov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
