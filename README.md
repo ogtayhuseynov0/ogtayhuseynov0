@@ -1,5 +1,5 @@
 ### Hi there 👋 ### My name is Ogtay Huseynov, Lazy but Productive Software Engineer.
-🔭 I’m currently working as Freelancer,
+🔭 I’m currently working as Freelancer, <br/>
 🌱 I’m currently learning Android, Svelte, TailwindCss, NuxtJS
 <!--
 **ogtayhuseynov0/ogtayhuseynov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
