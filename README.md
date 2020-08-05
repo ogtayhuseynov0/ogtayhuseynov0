@@ -3,7 +3,6 @@
 🌱 I’m currently learning Android, Svelte, TailwindCss, NuxtJS <br/>
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
 ![Alt text](https://raw.githubusercontent.com/ogtayhuseynov0/ogtayhuseynov0/master/icon.svg?sanitize=true)
-<img src="https://raw.githubusercontent.com/ogtayhuseynov0/ogtayhuseynov0/master/icon.svg?sanitize=true">
 
 <hr/>
 
