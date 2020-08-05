@@ -1,4 +1,4 @@
-### Hi there 👋 ### My name is Ogtay Huseynov, Lazy but Productive Software Engineer.
+### Hi there 👋 My name is Ogtay Huseynov, Lazy but Productive Software Engineer.
 🔭 I’m currently working as Freelancer, <br/>
 🌱 I’m currently learning Android, Svelte, TailwindCss, NuxtJS
 <!--
