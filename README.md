@@ -2,7 +2,7 @@
 🔭 I’m currently working as Freelancer, <br/>
 🌱 I’m currently (re)learning Android (Java), Svelte, TailwindCss, NuxtJS <br/>
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
-[![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green)]
+![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green)
 <hr/>
 
 [![My Github stats](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api?username=ogtayhuseynov0&count_private=true&show_icons=true&hide=stars)](https://github.com/ogtayhuseynov0/)
