@@ -4,6 +4,7 @@
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
 ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat)
 <hr/>
+<h3 align="center">Tech Stact</h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
