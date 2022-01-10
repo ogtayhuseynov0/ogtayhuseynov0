@@ -23,7 +23,7 @@
 
 <hr/>
 
-[![My Github stats](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api?username=ogtayhuseynov0&count_private=true&theme=dark&show_icons=true&hide=stars)](https://github.com/ogtayhuseynov0/)
+[![My Github stats](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api?username=ogtayhuseynov0&count_private=true&theme=dark&show_icons=true&hide=stars&layout=compact)](https://github.com/ogtayhuseynov0/)
 [![Top Langs](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api/top-langs/?username=ogtayhuseynov0&theme=dark&layout=compact)](https://github.com/ogtayhuseynov0)
 
 <!--
