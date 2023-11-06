@@ -2,7 +2,7 @@
 🔭 I’m currently working on a project <br/>
 🌱 I’m currently Next, Nest, React  <br/>
 <br/>
-&#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
+&#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/><br/><br/>
 ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat)
 
 
