@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Ogtay Huseynov, Productive Software Engineer.
-🔭 I’m currently working as a Freelancer, <br/>
-🌱 I’m currently (re)learning Android (Java), Svelte, TailwindCss, NuxtJS <br/>
+### Ogtay Huseynov - Software Engineer.
+🔭 I’m currently working on a project <br/>
+🌱 I’m currently Next, Nest, React  <br/>
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
 ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat)
 <hr/>
