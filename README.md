@@ -1,5 +1,4 @@
-### Ogtay Huseynov - Software Engineer
-![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat)
+### Ogtay Huseynov &bull; Software Engineer &bull; ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat)
 
 🔭 Currently working on a project <br/>
 🌱 Working with Next, Nest, React  <br/>
