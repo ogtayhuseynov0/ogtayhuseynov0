@@ -1,12 +1,12 @@
-### Ogtay Huseynov &bull; Software Engineer &bull; ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat)
+### Ogtay Huseynov &bull; Software Engineer <!--  &bull; ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat) -->
 
 🔭 Currently working on a project <br/>
 🌱 Working with Next, Nest, React  <br/>
-<br/>
+<!-- <br/>
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
 
 
-<!-- [![My Github stats](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api?username=ogtayhuseynov0&count_private=true&theme=dark&show_icons=true&hide=stars&layout=compact)](https://github.com/ogtayhuseynov0/)
+[![My Github stats](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api?username=ogtayhuseynov0&count_private=true&theme=dark&show_icons=true&hide=stars&layout=compact)](https://github.com/ogtayhuseynov0/)
 [![Top Langs](https://github-readme-stats-1.ogtayhuseynov0.vercel.app/api/top-langs/?username=ogtayhuseynov0&theme=dark&layout=compact)](https://github.com/ogtayhuseynov0)
 
 **ogtayhuseynov0/ogtayhuseynov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
