@@ -1,7 +1,7 @@
 ### Ogtay Huseynov &bull; Software Engineer <!--  &bull; ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat) -->
 
-🔭 Currently working on a project <br/>
-🌱 Working with Next, Nest, React  <br/>
+🔭 Currently working at @tailbox <br/>
+🌱 Working with FastAPI, Next, Devops  <br/>
 <!-- <br/>
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
 
