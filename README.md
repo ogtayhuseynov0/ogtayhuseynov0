@@ -1,7 +1,7 @@
 ### Ogtay Huseynov &bull; Software Engineer <!--  &bull; ![](https://komarev.com/ghpvc/?username=ogtayhuseynov0&color=green&style=flat) -->
 
 🔭 Currently working at @tailbox <br/>
-🌱 Working on everything and anything <br/>
+🌱 Working on everything and anything all at once<br/>
 <!-- <br/>
 &#x1F517; [https://ogtayhuseynov0.github.io/](https://ogtayhuseynov0.github.io/) <br/>
 
